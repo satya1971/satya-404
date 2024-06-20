@@ -1,1 +1,1 @@
-# satya-404
+js-satya-404
